@@ -1,11 +1,5 @@
 ### Hello, World! Devs 👋
 
-Meu nome é Ana Paula. Mas pode chamar de Ana. Atualmente eu sou dev em formação pelo programa Up Code. 
-Uma iniciativa da [Pague Menos](https://institucional.paguemenos.com.br/) que mudou a minha e a vida de outros jovens. O programa se encontra em fase
-final e eu já estou acompanhando profissionais experientes e contribuindo para melhorar o [e-commerce](https://www.paguemenos.com.br/) da empresa.
-
-<h3>:rocket: &nbsp;A programação é para todos! </h3>
-
 <p align="left">
   💌 Fala, aí! ⤵️
 </p>
