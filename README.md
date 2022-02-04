@@ -1,4 +1,4 @@
-### Hello, Devs! :octocat:
+### Hello, Devs :octocat:!
 
 <p align="left">
   💌 Fala, aí! ⤵️
