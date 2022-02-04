@@ -1,4 +1,4 @@
-### Hello, Devs! :squirrel:
+### Hello, Devs! :octocat:
 
 <p align="left">
   💌 Fala, aí! ⤵️
