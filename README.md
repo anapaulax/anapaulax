@@ -17,7 +17,5 @@ object **ANA** {
 
 }
 ```
-#### Rede Sociais!
 
-📷 [https://www.instagram.com/anapx_51/][instagram] **|** 
-👔 [https://www.linkedin.com/in/anapaulax/][linkedin]
+
