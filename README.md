@@ -1,4 +1,4 @@
-### Hello, World! Devs 👋
+### Hello, Devs! :squirrel:
 
 <p align="left">
   💌 Fala, aí! ⤵️
