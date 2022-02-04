@@ -4,18 +4,7 @@ Meu nome é Ana Paula. Mas pode chamar de Ana. Atualmente eu sou dev em formaç�
 Uma iniciativa da [Pague Menos](https://institucional.paguemenos.com.br/) que mudou a minha e a vida de outros jovens. O programa se encontra em fase
 final e eu já estou acompanhando profissionais experientes e contribuindo para melhorar o [e-commerce](https://www.paguemenos.com.br/) da empresa.
 
-<h3>:rocket: &nbsp;Nada supera o tempo de bunda na cadeira! </h3>
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```javascript
-const ana = {
- nome: "Ana Paula Pereira Silva"
- area: "Desenvolvimento Web"
- habilidades: ["HTML", "CSS", "Bootstrap"]
- linguagens: ["JavaScript", "React", "C#"]
-}
-```
+<h3>:rocket: &nbsp;A programação é para todos! </h3>
 
 <p align="left">
   💌 Fala, aí! ⤵️
