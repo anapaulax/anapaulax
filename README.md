@@ -1,7 +1,7 @@
 ### Hello, Devs! 
 
 <p align="left">
-  💌 Fala, aí! ⤵️
+  💌 Fala, aí! ⤵️ :octocat:
 </p>
 
 <p align="left">
