@@ -1,11 +1,9 @@
 <p align="left">
-  Fala, devs! ⤵️
-</p>
-
-<p align="left">
   Atualmente, meu github está passando por uma limpeza. Logo mais, os repos dos meus projetos que considero relevantes estarão aqui.
 </p>
-
+<p align="left">
+  Fala, devs! ⤵️
+</p>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/anapaulax/" alt="Linkedin">
