@@ -1,7 +1,11 @@
 ### Hello, Devs! 
 
 <p align="left">
-  💌 Fala, aí! ⤵️
+  💌 Fala, devs! ⤵️
+</p>
+
+<p align="left">
+  💌 Atualmente, meu github está passando por uma limpeza. Logo mais, os repos dos meus projetos que considero relevantes estarão aqui.
 </p>
 
 <p align="left">
