@@ -1,5 +1,3 @@
-### Hello, Devs! 
-
 <p align="left">
   Fala, devs! ⤵️
 </p>
